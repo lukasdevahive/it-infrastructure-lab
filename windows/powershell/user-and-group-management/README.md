@@ -1,26 +1,24 @@
-# Windows Local User and Group Management
+# IT Infrastructure Lab
+
+This repository is used to document my progression in IT infrastructure and system administration.
+
+I am currently developing my practical skills in areas such as:
+
+- Windows administration
+- Linux
+- Networking
+- PowerShell
+- System troubleshooting
+- Cybersecurity fundamentals
+
+The content of this repository will evolve as I complete practical exercises and labs.
 
 ## Objective
 
-Practice basic Windows local account administration using PowerShell.
+My goal is to build a solid technical foundation in IT infrastructure through hands-on practice and documented projects.
 
-This lab covers:
+## Author
 
-- Listing local users
-- Creating a local user
-- Creating a local group
-- Adding a user to a group
-- Checking group membership
-- Disabling and enabling accounts
-- Cleaning up the lab environment
+**Lukas Devahive**
 
-## Requirements
-
-- Windows 10 or Windows 11
-- PowerShell
-- Administrator privileges
-
-## 1. List local users
-
-```powershell
-Get-LocalUser
+IT student based in Belgium, currently looking for a work-study opportunity in IT infrastructure and systems.
